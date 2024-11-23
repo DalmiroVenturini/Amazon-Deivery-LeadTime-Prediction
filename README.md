@@ -15,8 +15,8 @@ Customers expect timely delivery of their orders. When delays occur, it can nega
 The dataset provided by Amazon contains sales records from 2015 to 2017 for the United States and Puerto Rico.
 
 # Assumptions:
-Each row, entry is a customer order.
-Each customer order is associated to one unit product sale.
+  -  Each row, entry represents a customer order.
+  -  Each customer order is associated to one unit product sale.
 
 Key Information:
   -  Total Rows: 185,500
@@ -33,7 +33,7 @@ After initial analysis, the focus was narrowed down to the Top 10 products gener
 
 # Analysis and Approach
 Exploratory Data Analysis (EDA):
-Focused on Top 10 profitable products.
+  -  Focused on Top 10 profitable products.
 Analyzed Key Relationships:
   -  Orders vs Sales
   -  Sales vs Profit
