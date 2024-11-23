@@ -1,7 +1,7 @@
 # Amazon Deivery LeadTime Prediction
 
 # Project Overview
-This project tackles the issue of late deliveries faced by Amazon in the United States and Puerto Rico. Customers often experience dissatisfaction when orders do not arrive on time, affecting trust and loyalty. Amazon approached PREDICTIFY Company to develop a data-driven solution for predicting delivery lead times and optimizing their delivery processes.
+This project tackles the issue of late deliveries faced by Amazon in the United States and Puerto Rico. Customers often experience dissatisfaction when orders do not arrive on time, affecting trust and loyalty.
 
 By leveraging machine learning models, we aim to accurately predict delivery lead times and provide actionable insights to reduce customer complaints and improve operational efficiency.
 
