@@ -14,10 +14,6 @@ Customers expect timely delivery of their orders. When delays occur, it can nega
 # Dataset Description
 The dataset provided by Amazon contains sales records from 2015 to 2017 for the United States and Puerto Rico.
 
-# Assumptions:
-  -  Each row, entry represents a customer order.
-  -  Each customer order is associated to one unit product sale.
-
 Key Information:
   -  Total Rows: 185,500
   -  Columns: 53
@@ -29,6 +25,11 @@ Key Features Used:
   -  Product Details: Price, category, etc.
   -  Shipping Details: Mode, year, month, weekday, lead time, etc.
   -  Sales Data: Profit, delivery status, etc.
+
+# Assumptions:
+  -  Each row, entry represents a customer order.
+  -  Each customer order is associated to one unit product sale.
+
 After initial analysis, the focus was narrowed down to the Top 10 products generating the highest profit, with further modeling applied to the most profitable product: Field & Stream Sportsman 16 Gun Fire Safe.
 
 # Analysis and Approach
