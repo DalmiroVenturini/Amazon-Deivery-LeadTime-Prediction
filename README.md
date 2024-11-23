@@ -53,7 +53,6 @@ Machine Learning Models Tested:
   -  KNN Regression.
   -  XGBoost Regression.
 
-# Normalizing:
-  -MinMaxScaler.
+# Normalizing with MinMaxScaler
 
 # Conclusions and Recommendations
